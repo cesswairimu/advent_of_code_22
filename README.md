@@ -1,3 +1,3 @@
-# Advent_of_code_22
+# Advent Of Code 22
 
 Ruby solutions
